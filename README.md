@@ -4,8 +4,7 @@
 
 Welcome to the PyTorch Foundation Programs repository!
 
-This repository serves as an index and entry point for community-driven programs supported by the PyTorch Foundation. Individual programs now live in their own dedicated repositories for improved organization and clarity.
-
+This repository serves as an index and entry point for community-driven programs supported by the PyTorch Foundation. 
 > 🔄 **Note:** The PyTorch Ambassador Program has moved to its own repository. This repo will serve as a directory for all current and future PyTorch Foundation programs.
 
 ## 📌 Programs Managed  
