@@ -8,11 +8,10 @@ This repository serves as an index and entry point for community-driven programs
 > 🔄 **Note:** The PyTorch Ambassador Program has moved to its own repository. This repo will serve as a directory for all current and future PyTorch Foundation programs.
 
 ## 📌 Programs Managed  
-- **PyTorch Ambassador Program** – Program details, nomination, and feedback now live in the [dedicated repository](https://github.com/pytorch-fdn/ambassador-program).
+- **PyTorch Ambassador Program** – This program is now closed. Program details are available in the [repository](https://github.com/pytorch-fdn/ambassador-program).
 
 ## 📝 Submit a Nomination  
-To nominate someone for the PyTorch Ambassador Program:  
-- [Submit a Nomination](https://github.com/pytorch-fdn/ambassador-program/issues/new?template=nominate-a-pytorch-ambassador.yml)
+The PyTorch Ambassador Program is now closed.
 
 ## 💬 Share Feedback  
 To submit feedback or ideas for the Ambassador Program:  
