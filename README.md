@@ -9,6 +9,7 @@ This repository serves as an index and entry point for community-driven programs
 
 ## 📌 Programs Managed  
 - **PyTorch Ambassador Program** – This program is now closed. Program details are available in the [repository](https://github.com/pytorch-fdn/ambassador-program).
+- **OSPO Academic Outreach** – A program focused on engaging academia and open-source collaboration. Learn more in the [HERE](https://github.com/pytorch-fdn/foundation-programs/blob/main/ospo-academic-outreach/README.md).
 
 ## 📝 Submit a Nomination  
 The PyTorch Ambassador Program is now closed.
